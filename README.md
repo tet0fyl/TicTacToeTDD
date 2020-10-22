@@ -7,7 +7,7 @@ This game was made to practice :
 * Test Coverage
 * Junit
 
-![menu_sample](documentation/test.gif)
+![test_sample](documentation/test.gif)
 
 ## Game
 A quick in game view sample :
