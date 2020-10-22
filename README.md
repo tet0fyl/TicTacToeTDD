@@ -1,4 +1,5 @@
 # Morpion TDD
+* made with JavaFx*
 
 *This project was made during my year of study at UHA in 2020*
 
